@@ -7,9 +7,9 @@
    - Primero se entregara una lista con los indices de las imagenes que sean iguales.
    - Despues se nos entregara una lista con los nombres de los archivos que sean iguales.
 
-## Ejemplo del Resultado:
+### Ejemplo del Resultado:
 
-## Distancia no. de las imágenes.                  
+### Distancia no. de las imágenes.                  
 
 - Distancia  0 - 1 :  0.0
 - Distancia  0 - 2 :  0.0
@@ -20,7 +20,7 @@
 
 
 
-## Distancia 3tiquetas de las imágenes.
+### Distancia 3tiquetas de las imágenes.
 
 - Distancia  EU1GJz8UUAchM3L_face1.jpg - EU1GX-AUEAEA2ix_face1.jpg :  0.0                  
 - Distancia  EU1GJz8UUAchM3L_face1.jpg - EU1GX-GU4AAyXe5_face1.jpg :  0.0                  
